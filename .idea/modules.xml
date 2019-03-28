@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-experiment-01/java-experiment-01.iml" filepath="$PROJECT_DIR$/java-experiment-01/java-experiment-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-experiment-02/java-experiment-02.iml" filepath="$PROJECT_DIR$/java-experiment-02/java-experiment-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-experiment-03/java-experiment-03.iml" filepath="$PROJECT_DIR$/java-experiment-03/java-experiment-03.iml" />
     </modules>
   </component>
 </project>
